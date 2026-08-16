@@ -4,7 +4,6 @@
 # Teste 1: Terminal SSH + LibreHardwareMonitor (chave SSH ja configurada)
 #
 # Uso NO NOTEBOOK:
-#   chmod +x monitor-pc.sh
 #   ./monitor-pc.sh
 #   (Ctrl+C para sair)
 #
