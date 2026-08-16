@@ -1,0 +1,21 @@
+# ROMs
+
+Coloque suas ROMs nesta pasta, organizadas por sistema. O `setup.sh` nao copia
+ROMs automaticamente (elas sao pesadas e ficam fora do git).
+
+Depois de colocar os arquivos, copie via SMB para o notebook:
+
+    \\IP\share\roms\<sistema>\
+
+Estrutura de pastas suportada (ver README.md):
+
+    snes/            (.smc .sfc .zip)
+    gba/             (.gba .zip)
+    gbc/             (.gbc .zip)
+    gb/              (.gb .zip)
+    mastersystem/    (.sms .zip)
+    megadrive/       (.bin .gen .smd .zip)
+    nes/             (.nes .zip)
+    gamegear/        (.gg .zip)
+    neogeo/          (.zip)
+    pcengine/        (.pce .zip)

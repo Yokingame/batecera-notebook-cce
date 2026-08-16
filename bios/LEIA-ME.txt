@@ -1,0 +1,22 @@
+# BIOS
+
+Coloque as BIOS nesta pasta. O `setup.sh` nao copia BIOS (ficam fora do git).
+
+Copie via SMB para o notebook:
+
+    \\IP\share\bios\
+
+BIOS necessarias por sistema:
+
+    gb_bios.bin            Game Boy
+    gbc_bios.bin           Game Boy Color
+    gba_bios.bin           Game Boy Advance
+    bios_E.sms             Master System (EU)
+    bios_J.sms             Master System (JP)
+    bios_U.sms             Master System (US)
+    sgb_bios.bin           Super Game Boy
+    sgb_boot.bin           Super Game Boy
+    sgb2_boot.bin          Super Game Boy 2
+    SGB1.sfc               Super Game Boy
+    SGB2.sfc               Super Game Boy 2
+    neogeo.zip             Neo Geo

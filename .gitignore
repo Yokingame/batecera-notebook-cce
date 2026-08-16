@@ -1,0 +1,10 @@
+# ROMs sao pesadas e nao devem ir para o git
+roms/*
+!roms/LEIA-ME.txt
+
+# BIOS idem
+bios/*
+!bios/LEIA-ME.txt
+
+# backups de config
+configs/*.bak
